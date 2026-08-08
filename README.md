@@ -323,15 +323,26 @@ npx wrangler deploy
 
 ---
 
-## 👤 Author & Support
+## 👨‍💻 Author & Maintainer
 
-Developed with ❤️ by **[hsinidev](https://hsini.dev)**
-
-- **Official Website**: [https://hsini.dev](https://hsini.dev)
-- **Live Project**: [https://kids.hsini.dev](https://kids.hsini.dev)
-- **GitHub**: [@hsinidev](https://github.com/hsinidev)
-- **Contact Email**: [contact@hsini.dev](mailto:contact@hsini.dev)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://hsini.dev">
+        <img src="profile.png" width="120px;" alt="Hsini Mohamed"/><br />
+        <sub><b>Hsini Mohamed</b></sub>
+      </a><br />
+      👑 Full-Stack Developer & SaaS Architect<br />
+      🌐 <a href="https://hsini.dev">hsini.dev</a> | 📧 <a href="mailto:contact@hsini.dev">contact@hsini.dev</a> | 🐙 <a href="https://github.com/hsinidev">@hsinidev</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-*© 2026 Kids School & Nursery. All rights reserved.*
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="center">Developed with ❤️ by <a href="https://hsini.dev">Hsini Mohamed</a></p>
+
