@@ -1,0 +1,17 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "childcare"
+main = ".open-next/worker.js"
+compatibility_date = "2025-04-01"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kids-nursery-db"
+database_id = "84b9a2dd-2e93-439b-8b34-b1ee59d83cb8"
+
+[vars]
+RESEND_API_KEY = ""
