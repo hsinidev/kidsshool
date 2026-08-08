@@ -25,11 +25,13 @@ The **Kids School** platform provides an immersive experience for parents explor
 ## 📸 Key Features
 
 ### 🏡 1. Interactive Landing Pages & Components
+
 - **Multi-Theme Homepages**: 4 distinct homepage layout options (`/`, `/home2`, `/home3`, `/home4`).
 - **Hero Slider**: Rich visual carousel showcasing school facilities and active learning environments.
 - **Micro-Animations & Visual Magic**: Floating decorative elements, sparkles, interactive counters, and smooth page transitions (`MagicSpells.tsx`, `Decorations.tsx`).
 
 ### 📚 2. Programs, Curriculum & Facilities
+
 - **Age Group Programs**: Tailored curriculum paths for Toddlers, Preschoolers, and Kindergarteners (`/curriculum`, `/courses-listing`).
 - **Specialized Service Pages**:
   - 🥗 **Nutrition & Healthy Dining**: `/nutrition`
@@ -38,12 +40,14 @@ The **Kids School** platform provides an immersive experience for parents explor
   - 👶 **Individual Care**: `/individual-care`
 
 ### 📩 3. Parent Inquiry & Registration System
+
 - **Registration Form**: Direct enrollment request form (`/registration`, `/ask-us`).
 - **Validation**: Full client-side & server-side validation using Zod.
 - **Server Actions**: Clean asynchronous lead capture via `src/app/actions/contact.ts`.
 - **Database Persistence**: Automatic record creation in SQLite/Cloudflare D1 `Lead` table.
 
 ### 🔐 4. Admin Management Dashboard (`/admin5467`)
+
 - **Authentication**: Secured login screen (`AdminLogin.tsx`).
 - **Lead Dashboard**: View, filter, search, and export incoming parent inquiries (`AdminTable.tsx`).
 - **Server-Side Operations**: Admin server actions for status updates and record management (`src/app/actions/admin.ts`).
@@ -52,7 +56,7 @@ The **Kids School** platform provides an immersive experience for parents explor
 
 ## 📁 Project Structure
 
-```
+```text
 kidsshool/
 ├── prisma/
 │   └── schema.prisma         # Prisma schema defining Lead and AdminUser models
@@ -95,6 +99,7 @@ kidsshool/
 ## 🛠️ Getting Started Locally
 
 ### Prerequisites
+
 - Node.js 18+ or Node.js 20+
 - npm, pnpm, or yarn
 
@@ -117,6 +122,7 @@ npx prisma db push
 ```
 
 *(Optional)* Seed default data:
+
 ```bash
 npx prisma db seed
 ```
@@ -170,4 +176,3 @@ Developed by **hsinidev**
 - **Website**: [hsini.dev](https://hsini.dev)
 - **Contact**: [contact@hsini.dev](mailto:contact@hsini.dev)
 - **GitHub**: [@hsinidev](https://github.com/hsinidev)
-
