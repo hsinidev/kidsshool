@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin5467
+
+Sitemap: https://kids.hsini.dev/sitemap.xml

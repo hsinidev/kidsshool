@@ -45,8 +45,8 @@ next-env.d.ts
 *.db-journal
 
 # deployment & cache outputs
-/vps_out
+vps_out/node_modules
+!vps_out/vps_out.zip
 /.wrangler
 /.open-next
-*.zip
 

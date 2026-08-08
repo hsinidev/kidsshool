@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/individual-care/layout,_N_T_/individual-care/page,_N_T_/individual-care"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/individual-care/__PAGE__",
+    "/individual-care",
+    "/_index",
+    "/_head"
+  ]
+}
