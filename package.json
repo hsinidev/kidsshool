@@ -2,6 +2,8 @@
   "name": "childcare",
   "version": "0.1.0",
   "private": true,
+  "author": "hsini <contact@hsini.dev> (https://hsini.dev)",
+
   "scripts": {
     "dev": "next dev",
     "build": "next build --webpack",

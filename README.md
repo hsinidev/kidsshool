@@ -167,4 +167,7 @@ npm run start
 ## 👤 Author
 
 Developed by **hsinidev**  
+- **Website**: [hsini.dev](https://hsini.dev)
+- **Contact**: [contact@hsini.dev](mailto:contact@hsini.dev)
 - **GitHub**: [@hsinidev](https://github.com/hsinidev)
+
